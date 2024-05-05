@@ -39,7 +39,7 @@
 
 
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> 
-  <img src="https://www.generationrobots.com/blog/wp-content/uploads/2016/07/gazebo-and-ros-687x319.jpg" alt="bash" width="40" height="40"/> 
+  <img src="https://classic.gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" alt="bash" width="40" height="40"/> 
 </a> 
 
 
