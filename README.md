@@ -4,7 +4,7 @@
 
 
 <h3 align="center">As a Roboticist, I specialize in empowering robots to communicate independently with their environment. I whisper instructions that enable autonomy, shaping robots that navigate and interact with the world autonomously.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazhar6746&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazhar6746" /> </p>
