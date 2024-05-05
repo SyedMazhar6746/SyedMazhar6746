@@ -54,6 +54,10 @@
 </a> 
 
 
+<a href="https://shapely.readthedocs.io/en/stable/manual.html" target="_blank" rel="noreferrer"> 
+  <img src="https://sspinnovations.com/wp-content/uploads/2024/01/cool-2024-fig5.png" alt="bash" width="40" height="40"/> 
+</a> 
+
 
 
 <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> 
