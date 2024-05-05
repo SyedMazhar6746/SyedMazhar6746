@@ -33,8 +33,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.hiastro.com/wp-content/uploads/2022/07/17191706/ros-logo.jpg" alt="bash" width="40" height="40"/> 
+<a href="https://stonefish.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
+  <img src="https://stonefish.readthedocs.io/en/latest/_static/logo.svg" alt="bash" width="40" height="40"/> 
 </a> 
 
 
