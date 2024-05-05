@@ -13,10 +13,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedmazhar6746" alt="syedmazhar6746" /></a> </p>
 
 
-- 🔭 I’m currently working on **Agricultural Robots**
 
 
-- 💬 Ask me about **Python, C++, ROS/ROS2, Gazebo, RVIZ, SLAM, Control Theory, Motion Planning, Intervention, Perception.**
+- 💬 Ask me about **Python, C++, ROS/ROS2, Gazebo, RVIZ, SLAM, Control Theory, Motion Planning, Intervention, Perception, etc.**
 
 
 - 📫 How to reach me **syedmazhar6746@gmail.com**
