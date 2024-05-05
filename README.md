@@ -4,9 +4,7 @@
 
 
 <h3 align="center">As a Roboticist, I specialize in empowering robots to communicate independently with their environment. I whisper instructions that enable autonomy, shaping robots that navigate and interact with the world autonomously.</h3>
-<div style="display: flex; justify-content: center;">
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+
 <p align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </p>
