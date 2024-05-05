@@ -98,6 +98,12 @@
   <img src="https://5.imimg.com/data5/SELLER/Default/2023/9/342780310/BO/QU/BJ/11492687/ptc-creo-elements-software-500x500.png" alt="bash" width="40" height="40"/> 
 </a> 
 
+
+<a href="https://solidedge.siemens.com/en/" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQyhRuU0zwfXiiNZTNCyGzm9UhvczlKt8TXtyjdugiO90CTD0jLMVupeSmHufdBTfMW4&usqp=CAU" alt="bash" width="40" height="40"/> 
+</a> 
+
+
 <a href="https://www.autodesk.de/products/autocad/overview?mktvar002=4341321|SEM|19637528795|161032024319|kwd-14891210&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_ACAD_AutoCAD_EMEA_DE_eComm_SEM_BR_New_MIX_0000_4341321-Industry&utm_id=4341321&utm_term=kwd-14891210&mkwid=s|pcrid|698169980597|pkw|autocad|pmt|e|pdv|c|slid||pgrid|161032024319|ptaid|kwd-14891210|pid|&utm_medium=cpc&utm_source=google&utm_campaign&utm_term=autocad&utm_content=s|pcrid|698169980597|pkw|autocad|pmt|e|pdv|c|slid||pgrid|161032024319|ptaid|kwd-14891210|&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYdwow1Js9CQz3DN9sFGmGQkxsfjpLZUfHEjy1b6oGiNcGo-in8a0nhoC9H8QAvD_BwE&ef_id=ZeMXVAAAALMHvwN-:20240505115930:s&term=1-YEAR&tab=subscription&plc=ACDIST" target="_blank" rel="noreferrer"> 
   <img src="https://1000logos.net/wp-content/uploads/2023/04/AutoCAD-logo.png" alt="bash" width="40" height="40"/> 
 </a> 
