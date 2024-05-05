@@ -1,4 +1,4 @@
-![MasterHead](banner_2.jpg)
+![MasterHead](final_banner.jpg)
 
 <h1 align="center">"I am Syed Mazhar, a Robotics Software Engineer."</h1>
 <h3 align="center">As a Roboticist, I specialize in empowering robots to communicate independently with their environment. I whisper instructions that enable autonomy, shaping robots that navigate and interact with the world autonomously.</h3>
