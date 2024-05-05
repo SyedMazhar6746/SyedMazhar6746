@@ -32,6 +32,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.hiastro.com/wp-content/uploads/2022/07/17191706/ros-logo.jpg" alt="bash" width="40" height="40"/> 
+</a> 
+
+
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> 
+  <img src="https://www.generationrobots.com/blog/wp-content/uploads/2016/07/gazebo-and-ros-687x319.jpg" alt="bash" width="40" height="40"/> 
+</a> 
+
+
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a> 
