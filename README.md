@@ -39,7 +39,7 @@
 
 
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> 
-  <img src="https://classic.gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" alt="bash" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/1743799?s=280&v=4" alt="bash" width="40" height="40"/> 
 </a> 
 
 
