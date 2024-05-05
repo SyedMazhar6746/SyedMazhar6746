@@ -33,6 +33,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
+<a href="https://ompl.kavrakilab.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://omplcement.com/wp-content/uploads/2022/05/omp-logo.png" alt="bash" width="40" height="40"/> 
+</a> 
+
+
+<a href="http://wiki.ros.org/urdf" target="_blank" rel="noreferrer"> 
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--lcXNCilX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://admantium.com/images/blog/ros04_final_robot.png" alt="bash" width="40" height="40"/> 
+</a> 
+
 
 <a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="bash" width="40" height="40"/> 
