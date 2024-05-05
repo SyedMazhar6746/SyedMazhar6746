@@ -33,6 +33,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
+<a href="https://www.staubli.com/de/en/robotics/products/robot-software/staeubli-robotics-suite.html" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFjKRg-yTF8-Ovsm_jxME0EWBKchYTyrAG1-hIhlYDRg&s" alt="bash" width="40" height="40"/> 
+</a> 
+
 <a href="https://playerproject.github.io/stage/" target="_blank" rel="noreferrer"> 
   <img src="https://playerproject.github.io/assets/img/fasr.png" alt="bash" width="40" height="40"/> 
 </a> 
