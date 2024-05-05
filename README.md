@@ -33,6 +33,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
+<a href="https://playerproject.github.io/stage/" target="_blank" rel="noreferrer"> 
+  <img src="https://playerproject.github.io/assets/img/fasr.png" alt="bash" width="40" height="40"/> 
+</a> 
+
 <a href="https://stonefish.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
   <img src="https://stonefish-ros.readthedocs.io/en/latest/_static/logo.svg" alt="bash" width="40" height="40"/> 
 </a> 
