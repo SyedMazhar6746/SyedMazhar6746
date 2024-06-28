@@ -102,24 +102,7 @@
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Design Softwares:</h3>
-<p align="left"> 
-  
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="bash" width="40" height="40"/> 
-</a> 
 
-<a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer"> 
-  <img src="https://5.imimg.com/data5/SELLER/Default/2023/9/342780310/BO/QU/BJ/11492687/ptc-creo-elements-software-500x500.png" alt="bash" width="40" height="40"/> 
-</a> 
-
-<a href="https://solidedge.siemens.com/en/" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQyhRuU0zwfXiiNZTNCyGzm9UhvczlKt8TXtyjdugiO90CTD0jLMVupeSmHufdBTfMW4&usqp=CAU" alt="bash" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.autodesk.de/products/autocad/overview?mktvar002=4341321|SEM|19637528795|161032024319|kwd-14891210&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_ACAD_AutoCAD_EMEA_DE_eComm_SEM_BR_New_MIX_0000_4341321-Industry&utm_id=4341321&utm_term=kwd-14891210&mkwid=s|pcrid|698169980597|pkw|autocad|pmt|e|pdv|c|slid||pgrid|161032024319|ptaid|kwd-14891210|pid|&utm_medium=cpc&utm_source=google&utm_campaign&utm_term=autocad&utm_content=s|pcrid|698169980597|pkw|autocad|pmt|e|pdv|c|slid||pgrid|161032024319|ptaid|kwd-14891210|&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYdwow1Js9CQz3DN9sFGmGQkxsfjpLZUfHEjy1b6oGiNcGo-in8a0nhoC9H8QAvD_BwE&ef_id=ZeMXVAAAALMHvwN-:20240505115930:s&term=1-YEAR&tab=subscription&plc=ACDIST" target="_blank" rel="noreferrer"> 
-  <img src="https://1000logos.net/wp-content/uploads/2023/04/AutoCAD-logo.png" alt="bash" width="40" height="40"/> 
-</a> 
 
 </p>
 
